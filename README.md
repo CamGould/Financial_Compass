@@ -1,2 +1,12 @@
-![](https://github.com/CamGould/Financial_Compass/blob/main/supplemental/Top_logo-removebg.png?raw=true)
-[Streamlit App](https://camgould-financial-compass--home-ci8xdd.streamlitapp.com)
+<p align="center">
+  <img
+    src="https://github.com/CamGould/Financial_Compass/blob/main/supplemental/Top_logo-removebg.png?raw=true"
+  >
+</p>
+
+<h2 align="center"> Welcome to the Beta Launch of <em>Financial Compass</em>!</h2>
+<h4 align="center"> The beta version of the app <em>(Version 0.01)</em> is now live at the following link:</em>!</h4>
+<h5 align="center">https://camgould-financial-compass--home-ci8xdd.streamlitapp.com</h5>
+
+
+
