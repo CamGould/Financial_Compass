@@ -6,7 +6,7 @@
 
 <h2 align="center"> Welcome to the Beta Launch of <em>Financial Compass</em>!</h2>
 <h4 align="center"> The beta version of the app <em>(Version 0.01)</em> is now live at the following link!</em>:</h4>
-<h5 align="center">https://camgould-financial-compass--home-ci8xdd.streamlitapp.com</h5>
+<h5 align="center">https://camgould-financial-compass-app--home-ui0o9z.streamlitapp.com</h5>
 <br>
 <br>
 In the near future this readme will be populated with what the app does, as well as known issues currently being worked on.
